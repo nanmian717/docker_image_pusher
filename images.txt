@@ -1,2 +1,2 @@
 nginx
-jellyfin
+linuxserver/jellyfin
