@@ -1,3 +1,4 @@
 nginx
 linuxserver/jellyfin
 hslr/sun-panel
+ihmily/douyin-live-recorder
