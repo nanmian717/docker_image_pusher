@@ -4,3 +4,4 @@ hslr/sun-panel
 ihmily/douyin-live-recorder
 hsuyelin/nas-tools:latest
 linuxserver/qbittorrent
+jeessy/ddns-go
