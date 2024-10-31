@@ -5,3 +5,8 @@ ihmily/douyin-live-recorder
 hsuyelin/nas-tools:latest
 linuxserver/qbittorrent
 jeessy/ddns-go
+zabbix/zabbix-web-nginx-mysql:centos-5.2-latest
+mysql:8.0.23
+zabbix/zabbix-java-gateway:centos-5.2-latest
+zabbix/zabbix-server-mysql:centos-5.2-latest
+zabbix/zabbix-agent:centos-5.2-latest
