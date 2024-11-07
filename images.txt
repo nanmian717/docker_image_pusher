@@ -11,3 +11,5 @@ zabbix/zabbix-java-gateway:centos-5.2-latest
 zabbix/zabbix-server-mysql:centos-5.2-latest
 zabbix/zabbix-agent:centos-5.2-latest
 zhayujie/chatgpt-on-wechat
+linuxserver/qbittorrent
+jxxghp/MoviePilot
