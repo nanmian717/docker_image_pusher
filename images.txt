@@ -1,3 +1,2 @@
-mysql:5.7
-zabbix/zabbix-server-mysql:alpine-5.0-latest
-zabbix/zabbix-web-nginx-mysql:alpine-5.0-latest
+cloudreve/cloudreve:latest
+p3terx/aria2-pro
