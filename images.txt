@@ -1,2 +1,1 @@
-unilei/aipan-netdisk-search
-postgres
+ollama/ollama
